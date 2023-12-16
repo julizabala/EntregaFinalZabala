@@ -1,0 +1,153 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "GTA V",
+            "categoria": "Accion",
+            "precio": 5000,
+            "foto": "/data/img/gta5.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "FIFA 24",
+            "categoria": "Deporte",
+            "precio": 4500,
+            "foto": "/data/img/fifa24.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Call Of Duty: Modern Warfare 2",
+            "categoria": "Accion",
+            "precio": 4000,
+            "foto": "/data/img/Callof2.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "The Witcher 3",
+            "categoria": "Rol",
+            "precio": 3000,
+            "foto": "/data/img/witcher3.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "NBA 2K 23",
+            "categoria": "Deporte",
+            "precio": 3000,
+            "foto": "/data/img/nba23.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Red Dead Redemption 2",
+            "categoria": "Aventura",
+            "precio": 4500,
+            "foto": "/data/img/red2.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Elden Ring",
+            "categoria": "Rol",
+            "precio": 4000,
+            "foto": "/data/img/eldenring.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Baldurs Gate 3",
+            "categoria": "Rol",
+            "precio": 70,
+            "foto": "/data/img/baldurs.png"
+        },
+        {
+            "id": 9,
+            "nombre": "Fifa 23",
+            "categoria": "Deporte",
+            "precio": 3000,
+            "foto": "/data/img/fifa23.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "No Mans Sky",
+            "categoria": "Aventura",
+            "precio": 2000,
+            "foto": "/data/img/sky.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Call of Duty: Modern Warfare",
+            "categoria": "Manga",
+            "precio": 2500,
+            "foto": "/data/img/callof1.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "The Elder Scrolls: Skyrim",
+            "categoria": "Rol",
+            "precio": 2000,
+            "foto": "/data/img/skyrim.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "FIFA 22",
+            "categoria": "Deportes",
+            "precio": 2500,
+            "foto": "/data/img/fifa22.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "God of War: Ragnarok",
+            "categoria": "Aventura",
+            "precio": 4000,
+            "foto": "/data/img/ragnarok.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Spiderman 2",
+            "categoria": "Accion",
+            "precio": 5000,
+            "foto": "/data/img/spiderman2.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "The Legends of Zelda: Tears of the Kingdom",
+            "categoria": "Aventura",
+            "precio": 4800,
+            "foto": "/data/img/zelda.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Star Wars Jedi: Fallen Order",
+            "categoria": "Aventura",
+            "precio": 2000,
+            "foto": "/data/img/fallen.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "NBA 2k 24",
+            "categoria": "Deporte",
+            "precio": 4500,
+            "foto": "/data/img/nba24.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Call of Duty: Black Ops 3",
+            "categoria": "Accion",
+            "precio": 2500,
+            "foto": "/data/img/ops3.jpg"
+        },
+        {
+            "id": 19,
+            "nombre": "Mortal Kombat 1",
+            "categoria": "Accion",
+            "precio": 70,
+            "foto": "/data/img/mk.jpg"
+        },
+        {
+            "id": 20,
+            "nombre": "Final Fantasy XVI",
+            "categoria": "Manga",
+            "precio": 75,
+            "foto": "/data/img/fantasy.jpg"
+        }
+        
+
+    ]
+}
